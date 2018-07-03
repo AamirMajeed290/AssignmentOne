@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimaryDark">#4db164</color>
+    <color name="colorPrimary">#28713b</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="mainFontColor">#050505</color>
+    <color name="buttonForeColor">#c3d0e9</color>
+    <color name="hintTextColor">#5b5858</color>
+    <color name="serviceTextColor">#062af5</color>
+</resources>

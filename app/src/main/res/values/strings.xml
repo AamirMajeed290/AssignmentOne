@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">EZ Accountants</string>
+    <string name="welcome_user">WELCOME</string>
+    <string name="welcome_user_message">The App Is Under Construction</string>
+
+    <string name="first_name">First name</string>
+    <string name="last_name">Last name</string>
+    <string name="dob">Date of birth</string>
+    <string name="currency_type">Choose Currency</string>
+    <string name="Country_name">Select Country</string>
+    <string name="phone_number">Phone number</string>
+    <string name="email_address">Enter Email Address</string>
+    <string name="password">Enter Password</string>
+    <string name="register_button">Save</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="sign_in">Sign In</string>
+    <string name="remember_me">Remember me on this device</string>
+    <string name="forgot_details">Forgot my details</string>
+
+
+    <string name="our_moto">Effortless accounting</string>
+    <string name="create_account_message">Sign in to submit your receipts and invoices to access them as excel (.csv) files.</string>
+    <string name="create_account">Create new account</string>
+
+</resources>
