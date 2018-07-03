@@ -5,7 +5,7 @@
 
     <string name="first_name">First name</string>
     <string name="last_name">Last name</string>
-    <string name="dob">Date of birth</string>
+    <string name="dob">Click To Set Date of birth</string>
     <string name="currency_type">Choose Currency</string>
     <string name="Country_name">Select Country</string>
     <string name="phone_number">Phone number</string>
